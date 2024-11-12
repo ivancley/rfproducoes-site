@@ -1,0 +1,20 @@
+.fundo-preto1{
+    background-color: #1f211d;
+    padding: 100px;
+}
+.fundo-preto2{
+    background-color: black;
+}
+.padding-100{
+    padding: 100px;
+}
+.fundo-roxo{ 
+    background-color: #8C2C71;
+}
+a {
+    color: #808080;
+    text-decoration: none; 
+}
+a:hover {
+    color: #ffffff; 
+}
